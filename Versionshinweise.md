@@ -4,4 +4,9 @@
 - Optische Anpassungen
 - Codeoptimierungen
 
+## Version 1.4.0
+- Prozentuale Anzeige wurde hinzugefügt
+- Eine benutzerdefinierte Verteilung kann erstellt und verwendet werden
+- Ein neues Logo, das auch für das dunkle und helle Thema geeignet ist wurde hinzugefügt
+
 *Aktualisiert am 04.08.2021*
