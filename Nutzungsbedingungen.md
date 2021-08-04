@@ -16,9 +16,9 @@ Sofern Teile oder einzelne Formulierungen dieses Nutzungsbedingungen der geltend
 Wir versuchen immer die Anwendung so nützlich und gut wie möglich zu gestalten sowie neue Funktionen bereitzustellen. 
 Daher behalten wir uns das Recht vor, jederzeit und aus beliebigen Gründen Änderungen an de Anwendung vorzunehmen. 
 
-Sofern Sie Probleme mit der Anwendung haben, wenden Sie Sich an uns unter: geometrysketch@outlook.de
+Sofern Sie Probleme mit der Anwendung haben, wenden Sie Sich an uns unter: punkteschluessel@outlook.de
 
 ## 6) Änderungen dieser Bedingungen
 Da diese Nutzungsbedingungen von Zeit zu Zeit aktualisiert werden, empfehlen wir Ihnen, diese Seite regelmäßig auf Änderungen zu überprüfen. Änderungen treten sofort nach ihrer Veröffentlichung in Kraft.
 
-*Aktualisiert am 08.03.2021*
+*Aktualisiert am 04.08.2021*
