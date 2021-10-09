@@ -1,6 +1,6 @@
 # Versionshinweise
 
-## Version 2.0.0
+## Version 2.0.0 und 2.1.0
 - Optische Anpassungen
 - Codeoptimierungen
 
@@ -9,4 +9,4 @@
 - Eine benutzerdefinierte Verteilung kann erstellt und verwendet werden
 - Ein neues Logo, das auch für das dunkle und helle Thema geeignet ist wurde hinzugefügt
 
-*Aktualisiert am 04.08.2021*
+*Aktualisiert am 09.10.2021*
