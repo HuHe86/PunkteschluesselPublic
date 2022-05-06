@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 2.3.0
+- Speichern wurde vereinfacht- 
+- Fehlerbehebungen
+
 ## Version 2.2.0
 - Optische Anpassungen
 - Dateisystemzugriff wurde hinzugefügt für besseren Komfort
@@ -14,4 +18,4 @@
 - Eine benutzerdefinierte Verteilung kann erstellt und verwendet werden
 - Ein neues Logo, das auch für das dunkle und helle Thema geeignet ist wurde hinzugefügt
 
-*Aktualisiert am 14.10.2021*
+*Aktualisiert am 06.05.2022*
